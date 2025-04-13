@@ -5,7 +5,6 @@ const nextConfig = {
     ignoreDuringBuilds: true,
   },
   images: { unoptimized: true },
-  cache: { type: 'memory' }
 };
 
 module.exports = nextConfig;

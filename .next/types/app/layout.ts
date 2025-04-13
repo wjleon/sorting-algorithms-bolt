@@ -1,4 +1,4 @@
-// File: /home/project/app/layout.tsx
+// File: /Users/wleon/Dropbox/_Back2Bits/SortingBattle/Bolt/sorting-algorithms-bolt/app/layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
