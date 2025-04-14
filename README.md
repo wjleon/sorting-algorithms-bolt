@@ -1,6 +1,9 @@
 # Blog Post
 This repo is part of a blog post that can be found [here:](https://medium.com/@wjleon/the-new-google-firebase-studio-gave-me-vibes-of-2010-the-vibe-coding-battle-b568d51d4ed1)
 
+# You can see and use the deployed app
+[Click here to open the app](https://sorting-algorithms-bolt-r6on5usgo-wjleons-projects.vercel.app/)
+
 # Sorting Algorithms Motion Showcase with Bolt
 
 A dynamic, interactive visualization platform for exploring and comparing various sorting algorithms, developed by [Wilmer Leon](https://medium.com/@wjleon) and powered by Bolt.
